@@ -1,5 +1,3 @@
 MMM
-nnnnnn
-
 [] - nnnn
 [] - mmmm
